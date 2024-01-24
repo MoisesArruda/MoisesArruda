@@ -12,6 +12,7 @@ Eu sou Moisés Arruda, um Engenheiro de Dados/Prompt nascido e criado em São Pa
 ## 🔗 Connect with me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dataengineer-moisesarruda/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MoisesArruda)
+
 Todas as outras redes estão desativadas.😴 
 
 ## ⚡ Stack
