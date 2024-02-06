@@ -6,7 +6,6 @@ Eu sou Moisés Arruda, um Engenheiro de Dados/Prompt nascido e criado em São Pa
 * ❤️ Amo estar com a família, estudar assuntos relacionados a tecnologia e história, fazer trilhas e explorar novas atividades físicas.
 * ☁️ Tenho familiaridade em trabalhar com a nuvem Microsoft Azure.
 * 💬 Amo falar sobre o que venho estudando e aprendendo.
-* 📘 Estou iniciando uma conta no TikTok(não julgue kk) para compartilhar conhecimentos da área!
 
 
 ## 🔗 Connect with me
